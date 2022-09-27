@@ -5,9 +5,12 @@
     <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
+  <ItemGroup>    
+    <Compile Include="src/Empty.fs" />
     <Compile Include="src/CircleArea.fs" />
     <Compile Include="src/ProjectTree.fs" />
+
+    <Compile Include="Main.fs" />
   </ItemGroup>
 
 </Project>

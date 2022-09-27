@@ -5,7 +5,7 @@ module CircleModule =
     open System;
 
     type UsersNumber = {
-        number: string;
+        number: int;
     }
 
     let readNumber<'UsersNumber>() = 
