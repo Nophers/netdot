@@ -1,8 +1,8 @@
-namespace Main 
+// namespace Main 
 
-module MainModule = 
+// module MainModule = 
 
-    [<EntryPoint>]
-    let main (args: string[]) =
-        printfn "yes : %A" args
-        0
+//     [<EntryPoint>]
+//     let main _ =
+//         printfn "Main module successfully loaded."
+//         0
